@@ -1,3 +1,3 @@
 # Summary
 
-* [基础](chixujiaofu/ji_chu.md)
+* [基础](ji_chu.md)
