@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Part1](../Python_web/part1/README.md)
+* [基础](ji_chu.md)
 
