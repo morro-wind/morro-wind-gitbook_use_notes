@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [敏捷开发](min-jie-kai-fa.md)
+* [書單](shu-dan.md)
 
 ## 智能时代
 
